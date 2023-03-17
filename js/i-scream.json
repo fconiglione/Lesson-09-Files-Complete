@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Moose Tracks",
+      "calories": 550,
+      "type": "ice cream",
+      "ingredients": [
+        "chocolate chips",
+        "chocolate milk",
+        "chocolate sprinkles"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Green Sorbet",
+      "calories": 333,
+      "type": "sorbet",
+      "ingredients": [
+        "Kiwi purée",
+        "candy sprinkles",
+        "lucky charms"
+      ],
+      "image": "ice-cream-xtra1.svg"
     }
   ]
 }
